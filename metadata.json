@@ -1,6 +1,6 @@
  {
       "name": "perfecto25-cis_rhel7",
-      "version": "1.0.0",
+      "version": "1.0.5",
       "author": "perfecto25",
       "license": "Apache-2.0",
       "summary": "CIS Benchmark Compliance for RHEL 7",
